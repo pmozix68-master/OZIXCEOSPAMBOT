@@ -12,10 +12,10 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://files.catbox.moe/8cnwvx.jpg"
   
 
-rizoel = "✯ OZIX SPAM HERE ✯\n\n"
+rizoel = "✯ 𝙊𝙕𝙄𝙓 𝘾𝙀𝙊 𝙎𝙥𝙖𝙢  ✯\n\n"
 rizoel += f"═══════════════════\n"
 rizoel += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 rizoel += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
