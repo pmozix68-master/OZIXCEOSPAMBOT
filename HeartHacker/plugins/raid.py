@@ -152,10 +152,10 @@ async def _(e):
                 text = f" can't raid on HeartHacker's Owner."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"MAA CHUDDA THIS GUY IS OWNER."
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
-                text = f"This guy is a sudo user."
+                text = f"This guy is a OWNER'FRNDS."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 que[user_id] = []
@@ -235,10 +235,10 @@ async def _(event):
                     text = f"I can't raid on HeartHacker's Owner"
                     await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"MAA CHUDDA THIS GUY IS OWNER."
                 await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) in SUDO_USERS:
-                    text = f"This guy is a sudo user."
+                    text = f"This guy is a OWNER'FRNDS."
                     await event.reply(text, parse_mode=None, link_preview=None )
              else:
                  c = a.first_name
@@ -259,10 +259,10 @@ async def _(event):
                        text = f"I can't raid on HeartHacker's Owner"
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) == OWNER_ID:
-                       text = f"This guy is a owner Of this Bots."
+                       text = f"MAA CHUDDA THIS GUY IS OWNER."
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) in SUDO_USERS:
-                       text = f"This guy is a sudo user."
+                       text = f"This guy is a OWNER'FRNDS."
                        await event.reply(text, parse_mode=None, link_preview=None )
                else:
                    c = b.first_name
