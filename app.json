@@ -1,5 +1,5 @@
 {
-      "name": "Heart Hacker Spam",
+      "name": "Ozix Ceo Spam",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
       "logo": "",
       "keywords": [
@@ -9,9 +9,9 @@
         "HeartHacker",
         "SpamBots"
       ],   
-  "repository": "https://github.com/pmozix68-master",
+  "repository": "https://github.com/pmozix68-master/OZIXCEOSPAMBOT.git",
   "website": "https://t.me//OZIXCEO",
-  "success_url": "https://t.me/LethalXfighters",
+  "success_url": "https://t.me/+KKYgpQNCwbgwODdl",
       "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -80,7 +80,7 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "1689542319",
+            "value": "7088510448",
             "required": true
         },
         "HEROKU_API_KEY": {
@@ -95,12 +95,12 @@
         },
         "OWNER_ID": {
             "description": "owner Id",
-            "value": "",
+            "value": "7088510448",
             "required": true
         },
         "CMD_HNDLR": {
             "description": "Custom command handler.",
-            "value": "!",
+            "value": ".",
             "required": false
         }    
     },
